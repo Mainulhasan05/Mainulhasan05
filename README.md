@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Mainul Hasan</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Ghorkuno Ecommerce Website (Full Stack) , Newsportal Kawsar News, Newsletter Platform **
+- 🔭 I’m currently working on **Ghorkuno Ecommerce Website (Full Stack) , Newsportal Kawsar News, Newsletter Platform**
 
 - 🌱 I’m currently learning **GraphQL, Docker**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [rifatewu.blogspot.com](rifatewu.blogspot.com)
 
-- 💬 Ask me about **React, Java, JavaScript**
+- 💬 Ask me about **React, Nextjs, Java, JavaScript, Python, Selenium Automation, Flutter App Development, MySQL, Mongodb**
 
 - 📫 How to reach me **mdrifatbd5@gmail.com**
 
