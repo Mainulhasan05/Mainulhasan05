@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md. Mainul Hasan</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Nano Academy(Udemy type)**
+- 🔭 I’m currently working on **Ghorkuno Ecommerce Website (Full Stack) , Newsportal Kawsar News, Newsletter Platform **
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **GraphQL, Docker**
 
-- 👯 I’m looking to collaborate on **Mess Management**
+- 👯 I’m looking to collaborate on **Unique and Challenging Project Ideas**
 
 - 📝 I regularly write articles on [rifatewu.blogspot.com](rifatewu.blogspot.com)
 
