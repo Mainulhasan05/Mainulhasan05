@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Mainul Hasan</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Ghorkuno Ecommerce Website (Full Stack) , Newsportal Kawsar News, Newsletter Platform**
+- 🔭 I’m currently working on **SuchonaMart Ecommerce Website (Full Stack) , Newsportal Kawsar News, Newsletter Platform**
+- suchonamart.com backend with Nodejs and MySQL, frontend with Nextjs.
 
 - 🌱 I’m currently learning **GraphQL, Docker**
 
