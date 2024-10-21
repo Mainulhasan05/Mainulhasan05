@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Mainul Hasan</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
-
+- 🔭 I’m recent task using Nodejs, Nextjs and Mongodb **Nonacademy (Full Stack)** 
+-  <a href="https://nonacademy.net" target="_blank"> nonacademy.net</a> backend with Nodejs and Mongodb, frontend with Nextjs.
+I played major role in the backend. There is admin panel with lots of functionalities. 
 - 🔭 I’m currently working on **SuchonaMart Ecommerce Website (Full Stack) , Newsportal Kawsar News, Newsletter Platform**
 -  <a href="https://suchonamart.com" target="_blank"> suchonamart.com</a> backend with Nodejs and MySQL, frontend with Nextjs.
 
