@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Md. Mainul Hasan</h1>
-<h3 align="center">A passionate software developer from Bangladesh</h3>
-- 🔭 I’m recent task using Nodejs, Nextjs and Mongodb **Nonacademy (Full Stack)** 
--  <a href="https://nonacademy.net" target="_blank"> nonacademy.net</a> backend with Nodejs and Mongodb, frontend with Nextjs.
-I played major role in the backend. There is admin panel with lots of functionalities. 
-- 🔭 I’m currently working on **SuchonaMart Ecommerce Website (Full Stack) , Newsportal Kawsar News, Newsletter Platform**
--  <a href="https://suchonamart.com" target="_blank"> suchonamart.com</a> backend with Nodejs and MySQL, frontend with Nextjs.
+<h1 align="center">Hi 👋, I'm Md. Mainul Hasan (Rifat)</h1>
+<h3 align="center">Team Lead & SaaS Founder from Bangladesh</h3>
 
-- 🌱 I’m currently learning **GraphQL, Docker**
+- 🔭 I’m currently building **[Quiz-Mint.com](https://quiz-mint.com)**, a comprehensive coaching center management SaaS platform built completely leveraging AI.
 
-- 👯 I’m looking to collaborate on **Unique and Challenging Project Ideas**
+- 💼 I’m also currently working as a **Team Lead at Roshoon.com**, building scalable web solutions and leading development efforts.
 
-- 📝 I regularly write articles on [rifatewu.blogspot.com](rifatewu.blogspot.com)
+- 🌱 I’m currently deep-diving into **DevOps, System Design, Docker, Terraform, and Infrastructure as Code (IaC)**. 
 
-- 💬 Ask me about **React, Nextjs, Java, JavaScript, Python, Selenium Automation, Flutter App Development, MySQL, Mongodb**
+- 💻 My core stack and expertise include **Node.js and JavaScript/TypeScript ecosystem**. 
 
-- 📫 How to reach me **mdrifatbd5@gmail.com**
+- 👯 I’m looking to collaborate on **innovative SaaS products and challenging System Design problems**.
+
+- 📝 I regularly write articles on [rifatewu.blogspot.com](https://rifatewu.blogspot.com)
+
+- 💬 Ask me about **Node.js, JavaScript, React, Nextjs, SaaS architecture, or building with AI**.
+
+- 📫 How to reach me: **mdrifatbd5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,8 +28,14 @@ I played major role in the backend. There is admin panel with lots of functional
 <a href="https://www.hackerearth.com/mainul4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mainul4" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mainulhasan05&show_icons=true&locale=en&layout=compact" alt="mainulhasan05" /></p>
-<span></span>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mainulhasan05&show_icons=true&locale=en" alt="mainulhasan05" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mainulhasan05&" alt="mainulhasan05" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mainulhasan05&show_icons=true&locale=en&layout=compact" alt="mainulhasan05" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mainulhasan05&show_icons=true&locale=en" alt="mainulhasan05" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mainulhasan05&" alt="mainulhasan05" />
+</p>
